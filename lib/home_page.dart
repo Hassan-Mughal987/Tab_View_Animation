@@ -7,7 +7,6 @@ import 'package:tab_view_animation/widgets/white_overlay.dart';
 class MyHomePage extends StatelessWidget {
   // Define a constant color to ensure consistency
   static const Color backgroundColor = Color(0xFF424242); // Colors.grey.shade800
-
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(

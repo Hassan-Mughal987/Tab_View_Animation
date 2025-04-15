@@ -144,4 +144,3 @@ class HomeProvider extends ChangeNotifier with WidgetsBindingObserver {
     super.dispose();
   }
 }
-

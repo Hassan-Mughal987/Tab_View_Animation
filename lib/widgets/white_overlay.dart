@@ -6,7 +6,6 @@ class WhiteOverlay extends StatelessWidget {
   final HomeProvider provider;
 
   const WhiteOverlay({super.key, required this.provider});
-
   @override
   Widget build(BuildContext context) {
     return ValueListenableBuilder<Color>(

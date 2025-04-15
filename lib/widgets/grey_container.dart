@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:tab_view_animation/providers/home_provider.dart';
-
 class GreyContainer extends StatelessWidget {
   final HomeProvider provider;
   final int index;

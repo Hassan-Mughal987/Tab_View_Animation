@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:tab_view_animation/home_page.dart';
 import 'package:tab_view_animation/providers/home_provider.dart';
-
 void main() {
   runApp(
     MultiProvider(
